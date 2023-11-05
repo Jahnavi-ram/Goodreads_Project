@@ -1,4 +1,6 @@
 # Goodreads_Project
+Link for the dataset - https://www.kaggle.com/datasets/thedevastator/comprehensive-overview-of-52478-goodreads-best-b
+
 Based on the analysis and findings from this project, drawn conclusions are:
 
 1. **Language Preference**: English is the most preferred language for books in the dataset, indicating a global appeal for English-language books.
